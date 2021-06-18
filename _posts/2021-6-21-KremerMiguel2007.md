@@ -41,4 +41,4 @@ Twitterでの本ブログのコメント・拡散も歓迎です。その際は�
 
 
 ### **文献：**
-
+Kremer, M. and Miguel, E., 2007. The illusion of sustainability. The Quarterly journal of economics, 122(3), pp.1007-1065.
